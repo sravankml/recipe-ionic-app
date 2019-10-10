@@ -1,0 +1,7 @@
+{
+  "appId": "com.fist.app.ionic",
+  "appName": "ionicapp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
